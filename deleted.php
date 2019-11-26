@@ -15,4 +15,5 @@ $sql = "DELETE FROM tip WHERE id=$id";
 $db->query($sql);
 echo '<p>User deleted.</p>';
 $db->close();
+//this coment is only added on purpose
 ?>
